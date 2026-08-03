@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <h1>Akhlaq Husain is the topper of my university.</h1>
+      <h1>new bie here </h1>
     </>
   )
 }
